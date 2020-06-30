@@ -3,6 +3,11 @@
     "type": "library",
     "minimum-stability": "dev",
     "description": "",
+    "autoload": {
+        "psr-4": {
+            "ActivityHistory\\" : "src/"         
+        }
+    },
     "repositories": [
         {
             "type": "vcs",
