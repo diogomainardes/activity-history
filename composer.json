@@ -1,5 +1,5 @@
 {
-    "name": "diogomainardes/acitivity-history",
+    "name": "diogomainardes/activity-history",
     "type": "library",
     "minimum-stability": "dev",
     "description": "",
@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "diogomainardes/activity-history": "0.0.1"
+        "diogomainardes/activity-history": "*"
     }
 }
