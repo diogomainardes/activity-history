@@ -2,7 +2,7 @@
 
 require_once("vendor/autoload.php");
 
-use \ActivityHistory\Logger;
+use ActivityHistory\Logger;
 
 $log = new Logger();
 
