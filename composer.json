@@ -1,13 +1,8 @@
 {
-    "name": "diogomainardes/activity-history",
+    "name": "diogo/teste",
     "type": "library",
     "minimum-stability": "dev",
     "description": "",
-    "autoload": {
-        "psr-4": {
-            "ActivityHistory\\" : "src/"         
-        }
-    },
     "repositories": [
         {
             "type": "vcs",
@@ -15,6 +10,6 @@
         }
     ],
     "require": {
-        "diogomainardes/activity-history": "*"
+        "diogomainardes/activity-history": "dev-master"
     }
 }

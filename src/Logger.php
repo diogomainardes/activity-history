@@ -1,9 +1,9 @@
 <?php 
 
-namespace AcitivityHistory;
+namespace ActivityHistory;
 
-use AcitivityHistory\Entities\ContentLog;
-use AcitivityHistory\Entities\CouponLog;
+use ActivityHistory\Entities\ContentLog;
+use ActivityHistory\Entities\CouponLog;
 
 class Logger {
     function content() : ContentLog {
