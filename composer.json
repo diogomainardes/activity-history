@@ -1,0 +1,13 @@
+{
+    "name": "diogomainardes/acitivity-history",
+    "type": "library",
+    "require": {
+        "diogomainardes/activity-history": "master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/diogomainardes/activity-history"
+        }
+    ]
+}
