@@ -1,13 +1,20 @@
 {
     "name": "diogomainardes/acitivity-history",
     "type": "library",
-    "require": {
-        "diogomainardes/activity-history": "master"
+    "minimum-stability": "dev",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "ActivityHistory\\" : "src/"         
+        }
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/diogomainardes/activity-history"
+            "url": "https://github.com/diogomainardes/activity-history.git"
         }
-    ]
+    ],
+    "require": {
+        "diogomainardes/activity-history": "0.0.1"
+    }
 }
